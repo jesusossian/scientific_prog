@@ -1,5 +1,5 @@
 # scientific_prog
-Repositorio da disciplina Elementos de Programação Cientifica do MMQ
+Repositório da disciplina Elementos de Programação Cientifica do MMQ
 
 
 ## Links
