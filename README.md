@@ -8,3 +8,4 @@ Repositório da disciplina Elementos de Programação Cientifica do MMQ
 - https://www.markdownguide.org/getting-started/
 - https://www.latex-project.org/
 - https://medium.com/google-colab
+- https://colab.google/
