@@ -9,3 +9,4 @@ Repositório da disciplina Elementos de Programação Cientifica do MMQ
 - https://www.latex-project.org/
 - https://medium.com/google-colab
 - https://colab.google/
+- https://lectures.scientific-python.org/
