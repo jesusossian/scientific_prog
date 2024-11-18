@@ -11,3 +11,4 @@ Repositório da disciplina Elementos de Programação Cientifica do MMQ
 - https://colab.google/
 - https://lectures.scientific-python.org/
 - https://numpy.org/doc/stable/user/quickstart.html
+- https://python.nilo.pro.br/
