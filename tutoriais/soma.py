@@ -1,4 +1,4 @@
-##############################################################################
+############################################################################
 # Parte do livro Introdução à Programação com Python
 # Autor: Nilo Ney Coutinho Menezes
 # Terceira Edição - Janeiro/2019 - ISBN 978-85-7522-718-3
