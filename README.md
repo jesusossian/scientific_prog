@@ -28,3 +28,6 @@ Gurobpy
 - https://www.youtube.com/watch?v=WpTNh7yW09g&list=PL_wz_RHE6pEbLGw7bBOpoRQEkuolPa5QU&index=2 (Um exemplo simples gurobi)
 - https://www.gurobi.com/documentation/quickstart.html (quick start guide gurobi)
 - https://www.gurobi.com/resource/mathematical-programming-tutorial-linear-programming/ (tutorial: linear programmming)
+
+Data
+- https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
