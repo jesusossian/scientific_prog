@@ -1,7 +1,6 @@
 # scientific_prog
 Repositório da disciplina Elementos de Programação Cientifica do MMQ
 
-
 ## Links
 
 Collab
@@ -20,6 +19,9 @@ Python
 - https://allendowney.github.io/ThinkPython/
 - https://www.alura.com.br/apostila-python-orientacao-a-objetos?srsltid=AfmBOoq4InxsdQh6FqUPkotrc5nzdoveXicFWJ9jWzhENw00eJa-svog
 - https://github.com/ricardoduarte/python-para-desenvolvedores
+- https://pythonfluente.com/
+- https://docs.python.org/3.12/tutorial/
+- https://penseallen.github.io/PensePython2e/
 
 Gurobpy
 - https://www.youtube.com/playlist?list=PL_wz_RHE6pEbLGw7bBOpoRQEkuolPa5QU (Playlist gurobipy)
@@ -31,3 +33,6 @@ Gurobpy
 
 Data
 - https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+
+Github
+- https://github.com/fluentpython/example-code-2e
